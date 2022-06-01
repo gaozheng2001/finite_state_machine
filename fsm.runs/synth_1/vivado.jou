@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Wed Apr 20 23:23:26 2022
+# Process ID: 11844
+# Current directory: D:/LABWORK/DSD/Lab/fsm/fsm.runs/synth_1
+# Command line: vivado.exe -log fsm.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source fsm.tcl
+# Log file: D:/LABWORK/DSD/Lab/fsm/fsm.runs/synth_1/fsm.vds
+# Journal file: D:/LABWORK/DSD/Lab/fsm/fsm.runs/synth_1\vivado.jou
+# Running On: BlackTeaIrse, OS: Windows, CPU Frequency: 3194 MHz, CPU Physical cores: 16, Host memory: 17024 MB
+#-----------------------------------------------------------
+source fsm.tcl -notrace
